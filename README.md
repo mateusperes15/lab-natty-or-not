@@ -12,7 +12,6 @@ Este eBook foi cuidadosamente criado por uma inteligência artificial avançada,
 Para elaborar este E-Book sobre SQL, contei com a ajuda do ChatGPT da OpenAI. Ele foi fundamental na criação dos textos e na organização dos temas conforme as diretrizes fornecidas. Utilizei o ChatGPT para desenvolver exemplos práticos e detalhar os tópicos de forma clara e fácil de entender. Além disso, o vídeo de anúncio do E-Book foi produzido pelo D-ID, uma ferramenta de inteligência artificial que transformou a imagem do Avatar Professor Matt, criado pelo LeonardoIA, em um vídeo promocional envolvente. Essas tecnologias combinadas garantiram a qualidade e o impacto deste material.
 
 ## 🚀 Resultados
-
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+1. Criação de um E-book de 25 páginas.
+2. Criação de um Avatar
+3. Elaboração de um vídeo do Avatar
